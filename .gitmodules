@@ -1,0 +1,9 @@
+[submodule "homework-flouberry2"]
+	path = homework-flouberry2
+	url = https://github.com/githubclassroomtest/homework-flouberry2
+[submodule "homework-Faing1978"]
+	path = homework-Faing1978
+	url = https://github.com/githubclassroomtest/homework-Faing1978
+[submodule "homework-dinever-test"]
+	path = homework-dinever-test
+	url = https://github.com/githubclassroomtest/homework-dinever-test
